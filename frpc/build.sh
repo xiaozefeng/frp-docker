@@ -5,7 +5,7 @@ docker rmi -f some-frpc
 
 docker build -t some-frpc .
 
-docker run -d --name some-frpc some-frpc
+docker run -d  --name some-frpc some-frpc
 
 
 

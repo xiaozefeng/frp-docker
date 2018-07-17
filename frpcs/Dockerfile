@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.8
 
 MAINTAINER qq523107430@163.com
 COPY frps /frps
